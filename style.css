@@ -141,6 +141,23 @@ td, th{
     padding: 10px 30px;
 }
 
+.art-gameinfo{
+    color: aliceblue;
+    margin: 0 3%;
+}
+
+.div-fa p{
+    margin-top: 3%;
+}
+.div-p{
+    margin-top: 2%;
+}
+.div-pe{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+
+}
 /*CSS para el HTML home*/
 
 .home{
