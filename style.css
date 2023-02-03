@@ -240,6 +240,7 @@ padding-bottom: 2%;
 .section-rules li{
     padding-bottom: 2%;
 }
+
 .section-rules ol >li> ol{
  list-style-type: lower-latin;
 }
@@ -248,3 +249,14 @@ padding-bottom: 2%;
     color: aliceblue;
 }
 
+.article-rules h1{
+    padding-bottom : 2%;
+}
+
+.article-rules h2{
+    padding-bottom : 2%;
+}
+
+.article-rules h2 {
+    padding-left: 5%;
+}
