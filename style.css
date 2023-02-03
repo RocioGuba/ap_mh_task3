@@ -117,6 +117,31 @@ section{
     margin-top: 5%;
 }
 
+
+/*CSS del HTML de About*/
+
+.section-about{
+    color: aliceblue;
+}
+
+.div-about{
+    color: aliceblue;
+}
+
+.div-about h3{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+/*CSS del HTML de contact*/
+.contact{
+    color: aliceblue;
+    padding-bottom: 5%;
+}
+.art-contact{
+    color: aliceblue;
+    text-align: center;
+}
 /*CSS del HTML de Game Information */
 
 .info1 h2{
@@ -161,6 +186,7 @@ td, th{
 /*CSS para el HTML home*/
 
 .home{
+    color: aliceblue;
     margin: 5% 0;
     text-align: center;
 }
@@ -176,3 +202,64 @@ td, th{
 }
 
 /*CSS para el HTML de rules*/
+
+.titulo-rules{
+    color: aliceblue;
+text-align: center;
+    margin-top:5%;
+}
+
+.main-rules{
+    color: aliceblue;
+    padding: 5% 10%;
+}
+
+.main-rules h3{
+    padding-bottom: 2%;
+}
+
+.main-rules span{
+    padding-left: 5%;
+}
+
+.section-rules{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.section-rules h3{
+padding-bottom: 2%;
+}
+
+.section-rules ol{
+    padding: 2% 2% 2% 2%;
+}
+
+.section-rules li{
+    margin-left: 20%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+}
+
+.lista3{
+margin-left: 20%;
+width: 60vw;
+}
+
+.article-rules{
+    color: aliceblue;
+}
+
+.article-rules h1{
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+.edit0{
+    padding-left: 9%;
+    padding-right: 30%;
+}
+.edit{
+    padding-top: 2%;
+    padding-left: 9%;
+    padding-right: 32%;
+}
